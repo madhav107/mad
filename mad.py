@@ -1,1 +1,1 @@
-print("mad")
+print("maad")
